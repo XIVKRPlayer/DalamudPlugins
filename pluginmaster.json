@@ -21,7 +21,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/AlbisMinerva/XIV-Addon/master/Plugins/XAT/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/AlbisMinerva/XIV-Addon/master/Plugins/XAT/latest.zip",
-        "DownloadCount": ,
-        "LastUpdated": ,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
