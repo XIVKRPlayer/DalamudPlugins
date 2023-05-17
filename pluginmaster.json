@@ -10,7 +10,7 @@
             "camera"
         ],
         "InternalName": "XAT",
-        "AssemblyVersion": "2022.12.24.2403",
+        "AssemblyVersion": "2022.11.26.124",
         "RepoUrl": "https://github.com/AsgardXIV/XAT",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
