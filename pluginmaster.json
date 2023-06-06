@@ -1,7 +1,7 @@
 [
     {
-		"Author":"Ottermandias",
-		"Name":"Accountant",
+		"Author":"Asgard",
+		"Name":"XAT",
 		"Punchline":"Create and edit animations and cutscenes.",
 		"Description":"Create and edit animations and cutscenes.",
 		"Changelog":"-",
@@ -12,8 +12,8 @@
 		],
 		"CategoryTags":null,
 		"IsHide":false,
-		"InternalName":"Accountant",
-		"AssemblyVersion":"1.3.2.3",
+		"InternalName":"XAT.Plugin",
+		"AssemblyVersion":"2022.11.26.124",
 		"TestingAssemblyVersion":null,
 		"IsTestingExclusive":false,
 		"RepoUrl":"https://github.com/AsgardXIV/XAT",
