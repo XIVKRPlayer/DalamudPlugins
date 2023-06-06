@@ -40,8 +40,8 @@
 		"Description":"Displays your debuffs on enemy nameplates.",
 		"Changelog":"-",
 		"Tags":[
-		"NamePlate",
-		"Overay"
+		"UI",
+		"jobs"
 		],
 		"CategoryTags":null,
 		"IsHide":false,
