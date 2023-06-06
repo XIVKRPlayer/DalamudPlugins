@@ -1,19 +1,14 @@
 {
   "Author": "Asgard",
   "Name": "XAT",
-  "InternalName": "XAT.Plugin",
-  "AssemblyVersion": "2022.12.24.2403",
+  "Punchline": "Create and edit animations and cutscenes.",
   "Description": "Create and edit animations and cutscenes.",
+  "AssemblyVersion": "2022.11.26.124",
+  "InternalName": "XAT.Plugin",
   "ApplicableVersion": "any",
-  "RepoUrl" : "https://github.com/AsgardXIV/XAT",
   "Tags": [
     "animation",
     "xat",
     "camera"
-  ],
-  "DalamudApiLevel" : 7,
-  "LoadPrioriry": 0,
-  "ImageUrls": "",
-  "IconUrl": "https://raw.githubusercontent.com/AlbisMinerva/XIV-Addon/master/Plugins/XAT/images/Icon.png",
-  "Punchline": "Create and edit animations and cutscenes."
+  ]
 }
