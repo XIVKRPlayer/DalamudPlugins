@@ -2,7 +2,7 @@
   "Author": "Asgard",
   "Name": "Brio",
   "InternalName": "Brio",
-  "AssemblyVersion": "0.1.8.6",
+  "AssemblyVersion": "0.1.6.0",
   "Description": "Control actors during GPose sessions.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -14,7 +14,6 @@
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
-  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
   "Punchline": "Actor control for GPose.",
