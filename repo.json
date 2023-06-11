@@ -100,5 +100,36 @@
 		"FeedbackWebhook":null,
 		"_isDip17Plugin":true,
 		"_Dip17Channel":"stable"
+	},
+	{
+		"Author":"Eternita",
+		"Name":"TextAdvance",
+		"Punchline":"Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
+		"Description":"Quest speedrunning assistance tool. Automatically skips subtitle boxes and confirms cutscene skipping",
+		"Changelog":"-",
+		"Tags":[
+		],
+		"CategoryTags":null,
+		"IsHide":false,
+		"InternalName":"TextAdvance",
+		"AssemblyVersion":"3.0.0.4",
+		"TestingAssemblyVersion":null,
+		"IsTestingExclusive":false,
+		"RepoUrl":"https://github.com/Eternita-S/TextAdvance",
+		"ApplicableVersion":"any",
+		"DalamudApiLevel":8,
+		"DownloadCount":0,
+		"LastUpdate":0,
+		"DownloadLinkInstall":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/TextAdvance/latest.zip",
+		"DownloadLinkUpdate":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/TextAdvance/latest.zip",
+		"DownloadLinkTesting":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/TextAdvance/latest.zip",
+		"LoadPriority":0,
+		"ImageUrls":null,
+		"IconUrl":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/TextAdvance/images/Icon.png",
+		"AcceptsFeedback":true,
+		"FeedbackMessage":null,
+		"FeedbackWebhook":null,
+		"_isDip17Plugin":true,
+		"_Dip17Channel":"stable"
 	}
 ]

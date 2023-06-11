@@ -1,0 +1,11 @@
+{
+	"Author": "Eternita",
+	"Name": "TextAdvance",
+	"InternalName": "TextAdvance",
+	"AssemblyVersion": "3.0.0.4",
+	"Description": "Quest speedrunning assistance tool. Automatically skips subtitle boxes and confirms cutscene skipping",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/Eternita-S/TextAdvance",
+	"DalamudApiLevel": 7,
+	"LoadPriority": 0
+}
