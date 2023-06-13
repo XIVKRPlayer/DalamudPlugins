@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Brio/0.1.6.0": {
+        "dependencies": {
+          "DalamudPackager": "2.1.10",
+          "EmbedIO": "3.5.2",
+          "Penumbra.Api": "1.0.6"
+        },
+        "runtime": {
+          "Brio.dll": {}
+        }
+      },
+      "DalamudPackager/2.1.10": {},
+      "EmbedIO/3.5.2": {
+        "dependencies": {
+          "Unosquare.Swan.Lite": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/EmbedIO.dll": {
+            "assemblyVersion": "3.5.2.0",
+            "fileVersion": "3.5.2.0"
+          }
+        }
+      },
+      "Penumbra.Api/1.0.6": {
+        "runtime": {
+          "lib/net7.0-windows7.0/Penumbra.Api.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {},
+      "Unosquare.Swan.Lite/3.1.0": {
+        "dependencies": {
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Swan.Lite.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Brio/0.1.6.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DalamudPackager/2.1.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S6NrvvOnLgT4GDdgwuKVJjbFo+8ZEj+JsEYk9ojjOR/MMfv1dIFpT8aRJQfI24rtDcw1uF+GnSSMN4WW1yt7fw==",
+      "path": "dalamudpackager/2.1.10",
+      "hashPath": "dalamudpackager.2.1.10.nupkg.sha512"
+    },
+    "EmbedIO/3.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YU4j+3XvuO8/VPkNf7KWOF1TpMhnyVhXnPsG1mvnDhTJ9D5BZOFXVDvCpE/SkQ1AJ0Aa+dXOVSW3ntgmLL7aJg==",
+      "path": "embedio/3.5.2",
+      "hashPath": "embedio.3.5.2.nupkg.sha512"
+    },
+    "Penumbra.Api/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5d/iEuK2V/VpmQOku9Ar0jUMwmW6emI2w+VnvSxYxr3pyflVIyH9BfUaa3XRm7ZsBQp4JY+rA6y3qElfjvoFsQ==",
+      "path": "penumbra.api/1.0.6",
+      "hashPath": "penumbra.api.1.0.6.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "Unosquare.Swan.Lite/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X3s5QE/KMj3WAPFqFve7St+Ds10BB50u8kW8PmKIn7FVkn7yEXe9Yxr2htt1WV85DRqfFR0MN/BUNHkGHtL4OQ==",
+      "path": "unosquare.swan.lite/3.1.0",
+      "hashPath": "unosquare.swan.lite.3.1.0.nupkg.sha512"
+    }
+  }
+}
