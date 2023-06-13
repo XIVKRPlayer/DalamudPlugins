@@ -111,7 +111,7 @@
 		"CategoryTags":null,
 		"IsHide":false,
 		"InternalName":"ActionEffectRange",
-		"AssemblyVersion":"1.4.7.1",
+		"AssemblyVersion":"1.4.6.2",
 		"TestingAssemblyVersion":null,
 		"IsTestingExclusive":false,
 		"RepoUrl":"https://github.com/yomishino/FFXIVActionEffectRange",
