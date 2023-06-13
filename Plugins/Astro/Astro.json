@@ -1,0 +1,14 @@
+{
+  "Author": "Aizck, Aki",
+  "Name": "Astro",
+  "InternalName": "Astro",
+  "AssemblyVersion": "1.0.0.2",
+  "Description": "/Astro for the options",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Nik-Potokar/Astro",
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "IconUrl": "http://s3.amazonaws.com/gt7sp-prod/decal/20/05/05/4899943897939050520_1.png",
+  "Punchline": "Makes astro simple to play.",
+  "Changelog": "Updated for 6.28."
+}
