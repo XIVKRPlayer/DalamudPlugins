@@ -242,7 +242,7 @@
 		"mob"
 		],
 		"CategoryTags":null,
-		"IsHide":false,
+		"IsHide":true,
 		"InternalName":"HuntHelper",
 		"AssemblyVersion":"0.0.0.7",
 		"TestingAssemblyVersion":null,
