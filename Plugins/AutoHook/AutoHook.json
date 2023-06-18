@@ -1,0 +1,18 @@
+{
+  "Author": "Det",
+  "Name": "Auto Hook",
+  "InternalName": "AutoHook",
+  "AssemblyVersion": "2.3.0.3",
+  "Description": "It hooks the fish for you, can you believe it?",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/InitialDet/AutoHook",
+  "Tags": [
+    "Gathering",
+    "Fishing"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
+  "Punchline": "Makes fishing less (or more) boring",
+  "Changelog": "- New AutoGig (spearfishing) Option\n- Added GP management for autocast\n- Added selectable Tugs for Double/Triple hook\n\n-- Small changes --\n- Adjustments to the UI\n- A lot of code refactor\n- Some bugfixes"
+}
