@@ -44,7 +44,7 @@ DownloadLink = DefaultDir+InternalName+"/latest.zip"
 print("이미지 갯수를 입력해주세요.(기본값:0)")
 Count = input("입력 : ")
 if Count == "0" or Count == "":
-    ImageUrls = "null"
+    ImageUrls = null
 else:
     for i in range(int(Count)):
         ii = str(i+1)
@@ -55,7 +55,7 @@ IconYN = input("입력: ")
 if IconYN == "y" or IconYN == "Y" or IconYN == "":
     IconUrl = (DefaultDir+InternalName+"/images/"+"icon.png")
 else:
-    IconUrl = "null"
+    IconUrl = null
 
 #JSON 세팅
 file_data = {
@@ -90,6 +90,6 @@ file_data = {
 }
 
 #Json출력
-FileName = InternalName+".json"
+FileName = "OutPut/"+InternalName+".json"
 with open(FileName, 'w') as outfile:
     json.dump(file_data, outfile, indent=4)
