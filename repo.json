@@ -236,9 +236,9 @@
 		"UI"
 		],
 		"CategoryTags":null,
-		"IsHide":true,
+		"IsHide":false,
 		"InternalName":"InventorySearchBar",
-		"AssemblyVersion":"1.1.0.1",
+		"AssemblyVersion":"1.2.0.0",
 		"TestingAssemblyVersion":null,
 		"IsTestingExclusive":false,
 		"RepoUrl":"https://github.com/Tischel/InventorySearchBar",
