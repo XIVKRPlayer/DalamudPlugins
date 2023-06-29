@@ -6,13 +6,12 @@ from collections import OrderedDict
 null = None
 Tags = []
 ImageUrls = []
-IconUrl = []
 DefaultDir = "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/"
 
 #설정값 지정
 Author = input("Author : ")
 Name = input("Name : ")
-Punchline = input("Punchlin : ")
+Punchline = input("Punchline : ")
 Description = input("Description : ")
 #Tags
 ExistQ_tagurl = input("태그가 있습니까?(y/n 기본:y) : ")
@@ -26,10 +25,20 @@ if ExistQ_tagurl == "y" or ExistQ_tagurl == "Y" or ExistQ_tagurl == "":
             Tags.append(Insert)
 else:
     print("Tag 입력이 종료되었습니다.")
+print("자동입력: "+Name+" [엔터]")
 InternalName = input("InternalName : ")
+if InternalName == "":
+    InternalName = Name
 AssemblyVersion = input("AssemblyVersion : ")
+AutoRepo = "https://github.com/"+Author+"/"+InternalName
+print("자동입력: "+AutoRepo+" [엔터]")
 RepoUrl = input("RepoUrl : ")
+if RepoUrl == "":
+    RepoUrl = AutoRepo
+print("기본값 : 8")
 DalamudApiLevel = input("DalamudApiLevel : ")
+if DalamudApiLevel == "":
+    DalamudApiLevel = 8
 DownloadLink = DefaultDir+InternalName+"/latest.zip"
 #ImageUrls
 print("이미지 갯수를 입력해주세요.(기본값:0)")
@@ -44,7 +53,7 @@ else:
 print("아이콘이 있습니까?(기본값:y)")
 IconYN = input("입력: ")
 if IconYN == "y" or IconYN == "Y" or IconYN == "":
-    IconUrl.append(DefaultDir+InternalName+"/images/"+"icon.png")
+    IconUrl = (DefaultDir+InternalName+"/images/"+"icon.png")
 else:
     IconUrl = "null"
 
@@ -54,8 +63,8 @@ file_data = {
     "Name": Name,
     "Punchline": Punchline,
     "Description": Description,
-    "Tags": Tags,
     "Changelog": "-",
+    "Tags": Tags,
     "CategoryTags": null,
     "IsHide": False,
     "InternalName": InternalName,
@@ -79,10 +88,8 @@ file_data = {
     "_isDip17Plugin":True,
     "_Dip17Channel":"stable"
 }
-#Json 출력
-CopiedJSON = json.dumps(file_data, ensure_ascii=False, indent="\t")
-with open('words.json', 'w', encoding="utf-8") as make_file:
-    json.dump(file_data, make_file, ensure_ascii=False, indent="\t")
-clipboard.copy(CopiedJSON)
-print(CopiedJSON)
-print("클립보드에 복사완료.")
+
+#Json출력
+FileName = InternalName+".json"
+with open(FileName, 'w') as outfile:
+    json.dump(file_data, outfile, indent=4)
