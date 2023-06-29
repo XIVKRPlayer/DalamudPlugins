@@ -236,7 +236,7 @@
 		"UI"
 		],
 		"CategoryTags":null,
-		"IsHide":false,
+		"IsHide":true,
 		"InternalName":"InventorySearchBar",
 		"AssemblyVersion":"1.1.0.1",
 		"TestingAssemblyVersion":null,
