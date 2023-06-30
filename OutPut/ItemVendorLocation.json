@@ -1,11 +1,10 @@
 {
-    "Author": "electr0sheep\"",
+    "Author": "electr0sheep",
     "Name": "Item Vendor Location",
     "Punchline": "Shows you where to buy vendor items",
     "Description": "Adds a context menu option for items that will show you where to find items you can buy off a vendor",
     "Changelog": "-",
     "Tags": [
-        "UI",
         "vendor",
         "plugin",
         "item"
@@ -13,7 +12,7 @@
     "CategoryTags": null,
     "IsHide": false,
     "InternalName": "ItemVendorLocation",
-    "AssemblyVersion": "1.1.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "TestingAssemblyVersion": null,
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
@@ -25,8 +24,16 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/latest.zip",
     "LoadPriority": 0,
-    "ImageUrls": null,
-    "IconUrl": null,
+    "ImageUrls": [
+        "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/images/image1.png",
+        "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/images/image2.png",
+        "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/images/image3.png",
+        "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/images/image4.png",
+        "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/images/image5.png",
+        "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/images/image6.png",
+        "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/images/image7.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/ItemVendorLocation/images/icon.png",
     "AcceptsFeedback": true,
     "FeedbackMessage": null,
     "FeedbackWebhook": null,
