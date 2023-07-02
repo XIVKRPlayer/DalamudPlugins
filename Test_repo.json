@@ -26,7 +26,7 @@
         "IsTestingExclusive": false,
         "RepoUrl": "https://github.com/Ottermandias/Accountant",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 7,
         "DownloadCount": 0,
         "LastUpdate": 0,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/Accountant/latest.zip",
