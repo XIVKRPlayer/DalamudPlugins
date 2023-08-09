@@ -194,38 +194,6 @@
 		"_isDip17Plugin":true,
 		"_Dip17Channel":"stable"
 	},
-	{
-		"Author":"Meowdy-do",
-		"Name":"CraftingList",
-		"Punchline":"Craft stuffs",
-		"Description":"Craft your things",
-		"Changelog":"-",
-		"Tags":[
-		"craft"
-		],
-		"CategoryTags":null,
-		"IsHide":false,
-		"InternalName":"CraftingList",
-		"AssemblyVersion":"1.11.1.0",
-		"TestingAssemblyVersion":null,
-		"IsTestingExclusive":false,
-		"RepoUrl":"https://github.com/Junie-774/CraftingList",
-		"ApplicableVersion":"any",
-		"DalamudApiLevel":8,
-		"DownloadCount":0,
-		"LastUpdate":0,
-		"DownloadLinkInstall":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/CraftingList/latest.zip",
-		"DownloadLinkUpdate":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/CraftingList/latest.zip",
-		"DownloadLinkTesting":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/CraftingList/latest.zip",
-		"LoadPriority":69,
-		"ImageUrls":null,
-		"IconUrl":"",
-		"AcceptsFeedback":true,
-		"FeedbackMessage":null,
-		"FeedbackWebhook":null,
-		"_isDip17Plugin":true,
-		"_Dip17Channel":"stable"
-	},
     {
 		"Author":"Tischel",
 		"Name":"Inventory SearchBar",
