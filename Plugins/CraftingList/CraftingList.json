@@ -1,11 +1,16 @@
 {
   "Author": "Meowdy-do",
   "Name": "Crafting List",
-  "Punchline": "Crafty craft",
+  "InternalName": "CraftingList",
+  "AssemblyVersion": "1.11.1.0",
   "Description": "Create a list of items to craft",
-  "Tags": [
-  ],
+  "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Junie-774/CraftingList",
-  "IsTestingExclusive": false
-
+  "Tags": [],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Crafty craft",
+  "AcceptsFeedback": true
 }
