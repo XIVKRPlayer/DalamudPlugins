@@ -206,7 +206,7 @@
 		"CategoryTags":null,
 		"IsHide":false,
 		"InternalName":"CraftingList",
-		"AssemblyVersion":"1.11.0",
+		"AssemblyVersion":"1.11.1.0",
 		"TestingAssemblyVersion":null,
 		"IsTestingExclusive":false,
 		"RepoUrl":"https://github.com/Junie-774/CraftingList",
