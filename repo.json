@@ -226,6 +226,38 @@
 		"_isDip17Plugin":true,
 		"_Dip17Channel":"stable"
 	},
+	{
+		"Author":"Meowdy-do",
+		"Name":"CraftingList[KrEdit]",
+		"Punchline":"이것저것 만들어보세요.",
+		"Description":"Craft your things\n해당 플러그인은 한섭에 대응하기 위해 수정된 버전입니다.\n문제 발생시 다른 CraftingList를 사용해주세요.",
+		"Changelog":"-",
+		"Tags":[
+		"craft"
+		],
+		"CategoryTags":null,
+		"IsHide":false,
+		"InternalName":"CraftingListKR",
+		"AssemblyVersion":"1.11.1.0_KR",
+		"TestingAssemblyVersion":null,
+		"IsTestingExclusive":false,
+		"RepoUrl":"https://github.com/Junie-774/CraftingList",
+		"ApplicableVersion":"any",
+		"DalamudApiLevel":8,
+		"DownloadCount":0,
+		"LastUpdate":0,
+		"DownloadLinkInstall":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/CraftingListKR/latest.zip",
+		"DownloadLinkUpdate":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/CraftingListKR/latest.zip",
+		"DownloadLinkTesting":"https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/CraftingListKR/latest.zip",
+		"LoadPriority":69,
+		"ImageUrls":null,
+		"IconUrl":"",
+		"AcceptsFeedback":true,
+		"FeedbackMessage":null,
+		"FeedbackWebhook":null,
+		"_isDip17Plugin":true,
+		"_Dip17Channel":"stable"
+	},
     {
 		"Author":"Tischel",
 		"Name":"Inventory SearchBar",

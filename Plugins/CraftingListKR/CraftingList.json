@@ -1,0 +1,16 @@
+{
+  "Author": "Meowdy-do",
+  "Name": "Crafting List",
+  "InternalName": "CraftingList",
+  "AssemblyVersion": "1.11.1.0_KR",
+  "Description": "Create a list of items to craft\n해당 플러그인은 한섭에 대응하기 위해 수정된 버전입니다.\n문제 발생시 다른 CraftingList를 사용해주세요.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Junie-774/CraftingList",
+  "Tags": [],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Crafty craft",
+  "AcceptsFeedback": true
+}
