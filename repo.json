@@ -1254,5 +1254,37 @@
 		"FeedbackWebhook": null,
 		"_isDip17Plugin": true,
 		"_Dip17Channel": "stable"
+	},
+	{
+		"Author": "Taurenkey & Puni.sh",
+		"Name": "Artisan",
+		"Punchline": "A 'simple' crafting plugin.",
+		"Description": "The all-in-one crafting plugin.",
+		"Changelog": "-",
+		"Tags": [
+			"crafting"
+		],
+		"CategoryTags": null,
+		"IsHide": false,
+		"InternalName": "Artisan",
+		"AssemblyVersion": "1.0.6.4",
+		"TestingAssemblyVersion": null,
+		"IsTestingExclusive": false,
+		"RepoUrl": "https://github.com/PunishXIV/Artisan",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 8,
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"DownloadLinkInstall": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/Artisan/latest.zip",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/Artisan/latest.zip",
+		"DownloadLinkTesting": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/Artisan/latest.zip",
+		"LoadPriority": 0,
+		"ImageUrls": null,
+		"IconUrl": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/Artisan/images/icon.png",
+		"AcceptsFeedback": true,
+		"FeedbackMessage": null,
+		"FeedbackWebhook": null,
+		"_isDip17Plugin": true,
+		"_Dip17Channel": "stable"
 	}
 ]
