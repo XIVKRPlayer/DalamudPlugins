@@ -228,9 +228,9 @@
 	},
 	{
 		"Author":"Meowdy-do",
-		"Name":"CraftingList[KrEdit]",
+		"Name":"CraftingList KR",
 		"Punchline":"이것저것 만들어보세요.",
-		"Description":"Craft your things\n해당 플러그인은 한섭에 대응하기 위해 수정된 버전입니다.\n문제 발생시 다른 CraftingList를 사용해주세요.",
+		"Description":"Craft your things 해당 플러그인은 한섭에 대응하기 위해 수정된 버전입니다. 문제 발생시 다른 CraftingList를 사용해주세요.",
 		"Changelog":"-",
 		"Tags":[
 		"craft"
