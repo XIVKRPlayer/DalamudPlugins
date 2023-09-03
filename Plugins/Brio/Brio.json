@@ -2,7 +2,7 @@
   "Author": "Asgard",
   "Name": "Brio",
   "InternalName": "Brio",
-  "AssemblyVersion": "0.1.6.0",
+  "AssemblyVersion": "0.1.8.4",
   "Description": "Control actors during GPose sessions.",
   "ApplicableVersion": "any",
   "Tags": [
