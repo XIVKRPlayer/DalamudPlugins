@@ -29,7 +29,7 @@ Waitingway.Dalamud
 YesAlready
 ZodiacBuddy
 
-Combat:	[ 완료 ]
+Combat:
 ActionEffectRange
 DeepDungeonDex
 Distance
