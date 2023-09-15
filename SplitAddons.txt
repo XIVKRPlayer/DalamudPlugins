@@ -1,0 +1,44 @@
+UIUX:
+Chat Bubbles
+Ultrawide Cutscenes
+Dalamud.LoadingImage
+InventorySearchBar
+InventoryTools
+JobBars
+RepairMe
+
+VFX:
+VFXEditor
+Visibility
+MultiHit
+
+Gpose:
+Brio
+XAT
+
+Utility:
+ChatCoordinates
+DeathRecap
+FPS Plugin
+MapLinker
+MarketBoardPlugin
+QuestMap
+TargetFurniture
+TextAdvance
+Waitingway.Dalamud
+YesAlready
+ZodiacBuddy
+
+Combat:	[ 완료 ]
+ActionEffectRange
+DeepDungeonDex
+Distance
+EnmityHp
+NamePlateDebuffs
+RezPls
+WaymarkPresetPlugin
+
+Minigames:
+FauxHollowsSolver
+MiniCactpotSolver
+TriadBuddy
