@@ -390,5 +390,38 @@
 		"FeedbackWebhook": null,
 		"_isDip17Plugin": true,
 		"_Dip17Channel": "stable"
-	}
+	},
+	{
+        "Author": "Meli & perchbird",
+        "Name": "Orchestrion Plugin",
+        "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
+        "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\\\\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\\\\nif you want to know later! Add favorite songs to separate them from the rest.\\\\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
+        "Changelog": "-",
+        "Tags": [
+            "bgm",
+            "music"
+        ],
+        "CategoryTags": null,
+        "IsHide": false,
+        "InternalName": "orchestrion",
+        "AssemblyVersion": "1.8.4.7",
+        "TestingAssemblyVersion": null,
+        "IsTestingExclusive": false,
+        "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/orchestrion/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/orchestrion/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/orchestrion/latest.zip",
+        "LoadPriority": 0,
+        "ImageUrls": null,
+        "IconUrl": "https://raw.githubusercontent.com/XIVKRPlayer/DalamudPlugins/master/Plugins/orchestrion/images/icon.png",
+        "AcceptsFeedback": true,
+        "FeedbackMessage": null,
+        "FeedbackWebhook": null,
+        "_isDip17Plugin": true,
+        "_Dip17Channel": "stable"
+    },
 ]
