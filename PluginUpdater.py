@@ -58,3 +58,5 @@ if response.status_code == 200:
         print('플러그인 업데이트 완료.')
 else:
     print('업데이트 파일 다운로드 실패.')
+    
+os.system('pause')
