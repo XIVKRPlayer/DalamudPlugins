@@ -9,7 +9,7 @@ print('타겟경로 : https://github.com/goatcorp/PluginDistD17')
 HistoryData = input('커밋 해시 : ')
 
 # A_Dir 디렉토리 경로
-dir_path = 'plugins'
+dir_path = 'Plugins'
 # A_Dir 디렉토리 안에 있는 파일과 디렉토리 리스트 얻기
 files_and_dirs = os.listdir(dir_path)
 # 디렉토리 이름들을 저장할 빈 집합 생성
